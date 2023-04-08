@@ -1,1 +1,1 @@
-MY FILE ONE
+"/* My File One */
